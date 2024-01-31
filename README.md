@@ -11,19 +11,19 @@
 </p>
 
 ## 🔧 Issues
-If you face any problems while using the application, please open an issue [here](https://github.com/fungamer2-2/Life-Simulator1/issues)
+If you face any problems while using the application, please open an issue [here](https://github.com/pastfama/Life-Simulator1/issues)
 
 ## 🖐️ Get in touch
 ### You can join in on chatting with the team on our [discord server](https://discord.gg/xER8)
  
 ## 🤝 Contributing
-Contributions, feedback, and bug reports are welcome! Feel free to check out our [issues page](https://github.com/fungamer2-2/Life-Simulator1/issues) to find out what you could do! but before contrubuting make sure to check out [CONTRIBUTING.md](./CONTRIBUTING.md).
+Contributions, feedback, and bug reports are welcome! Feel free to check out our [issues page](https://github.com/pastfama/Life-Simulator1/issues) to find out what you could do! but before contrubuting make sure to check out [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Installation
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/fungamer2-2/Life-Simulator1.git
+   git clone https://github.com/pastfama/Life-Simulator1.git
    ```
 2. Install [Python](https://www.python.org/)
 
